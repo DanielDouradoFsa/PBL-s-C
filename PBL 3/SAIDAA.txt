@@ -1,0 +1,87 @@
+
+EXIBICAO DE TODOS OS JOGADORES
+|Pablo Henrique Santos|	1986|	Brasil|	7|	Atacante
+|Jonh Mayer|	1990|	Inglaterra|	2|	Zagueiro
+|Júlio Cesar|	1980|	Brasil|	18|	Goleiro
+|Wesley Scobar|	1994|	Espanha|	10|	Goleiro
+|Maicon Wendell|	1987|	Inglaterra|	10|	Atacante
+|Juan Pablo|	1991|	Espanha|	7|	Volante
+|Marcos Paulo|	1993|	Brasil|	8|	Volante
+|Michael Kors|	1989|	Inglaterra|	10|	Atacante
+
+
+EXIBICAO DE TODOS OS JOGADORES
+|Pablo Henrique Santos|	1986|	Brasil|	7|	Atacante
+|Jonh Mayer|	1990|	Inglaterra|	2|	Zagueiro
+|Júlio Cesar|	1980|	Brasil|	18|	Goleiro
+|Wesley Scobar|	1994|	Espanha|	10|	Goleiro
+|Maicon Wendell|	1987|	Inglaterra|	10|	Atacante
+|Juan Pablo|	1991|	Espanha|	7|	Volante
+|Marcos Paulo|	1993|	Brasil|	8|	Volante
+|Michael Kors|	1989|	Inglaterra|	10|	Atacante
+|Munhoz Osírio|	1993|	Espanha|	10|	Atacante
+|Victor Sa|	1987|	Espanha|	2|	Goleiro
+
+
+EXIBICAO DE TODOS OS JOGADORES
+|Pablo Henrique Santos|	1986|	Brasil|	7|	Atacante
+|Jonh Mayer|	1990|	Inglaterra|	5|	Zagueiro
+|Júlio Cesar|	1980|	Brasil|	18|	Goleiro
+|Wesley Scobar|	1994|	Espanha|	10|	Goleiro
+|Maicon Wendell|	1987|	Inglaterra|	10|	Atacante
+|Juan Pablo|	1991|	Espanha|	7|	Volante
+|Marcos Paulo|	1993|	Brasil|	7|	Volante
+|Michael Kors|	1989|	Inglaterra|	10|	Atacante
+|Munhoz Osírio|	1993|	Espanha|	10|	Atacante
+|Victor Sa|	1987|	Espanha|	2|	Goleiro
+
+
+EXIBICAO DE TODOS OS JOGADORES
+|Pablo Henrique Santos|	1986|	Brasil|	7|	Atacante
+|Jonh Mayer|	1990|	Inglaterra|	5|	Zagueiro
+|Júlio Cesar|	1980|	Brasil|	18|	Goleiro
+|Marcos Paulo|	1993|	Brasil|	7|	Volante
+|Michael Kors|	1989|	Inglaterra|	10|	Atacante
+|Munhoz Osírio|	1993|	Espanha|	10|	Atacante
+|Victor Sa|	1987|	Espanha|	2|	Goleiro
+
+
+EXIBICAO DE TODOS OS JOGADORES
+
+
+EXIBICAO DE TODOS OS JOGADORES
+|Pablo Henrique Santos|	1986|	Brasil|	7|	Atacante
+|Jonh Mayer|	1990|	Inglaterra|	2|	Zagueiro
+|Júlio Cesar|	1980|	Brasil|	18|	Goleiro
+|Wesley Scobar|	1994|	Espanha|	10|	Goleiro
+|Maicon Wendell|	1987|	Inglaterra|	10|	Atacante
+|Juan Pablo|	1991|	Espanha|	7|	Volante
+|Marcos Paulo|	1993|	Brasil|	8|	Volante
+|Michael Kors|	1989|	Inglaterra|	10|	Atacante
+
+
+EXIBICAO DE JOGADORES SORTEADOS NO SORTEIO 1
+Michael Kors	Inglaterra
+Munhoz Osírio	Espanha
+
+EXIBICAO DE JOGADORES SORTEADOS NO SORTEIO 2
+Júlio Cesar	Brasil
+Juan Pablo	Espanha
+Marcos Paulo	Brasil
+
+
+FILTRO PELA POSICAO DE: Volante
+Juan Pablo	Espanha
+Marcos Paulo	Brasil
+
+
+
+FILTRO PELA POSICAO DE: Atacante
+Michael Kors	Inglaterra
+Munhoz Osírio	Espanha
+
+
+
+FILTRO PELA POSICAO DE: Levantador
+
+NAO EXISTE A POSICAO INSERIDA:Levantador
